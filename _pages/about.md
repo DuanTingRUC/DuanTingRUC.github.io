@@ -71,7 +71,7 @@ redirect_from:
 - [课堂内外](https://www.ktnw.cn/)，省级期刊，20.0，《》（20年x月下刊） 
 
 # 📄教学资源分享
-- “段老师与你共读” **《水浒传》**：[第1-2回](https://mp.weixin.qq.com/s/1YE5ZLROUcqS-DUvMQKadg) • [第3-4回](https://mp.weixin.qq.com/s/R9EHmy01qFQ9iTERezGVEg) • [第5-6回](https://mp.weixin.qq.com/s/wjWg51fGiFoJbvYvxhq0dA) • [第7-8回](https://mp.weixin.qq.com/s/G3OVbckcya187qlfE2vfjw) • [第9-10回](https://mp.weixin.qq.com/s/AQDzZHsEfMM3wg1R09fhmA) • [第11-12回](https://mp.weixin.qq.com/s/-Kjg9yRIYemww-anyA9dmw)
+- “段老师与你共读” **《水浒传》**：[第1-2回](https://mp.weixin.qq.com/s/1YE5ZLROUcqS-DUvMQKadg) • [第3-4回](https://mp.weixin.qq.com/s/R9EHmy01qFQ9iTERezGVEg) • [第5-6回](https://mp.weixin.qq.com/s/wjWg51fGiFoJbvYvxhq0dA) • [第7-8回](https://mp.weixin.qq.com/s/G3OVbckcya187qlfE2vfjw) • [第9-10回](https://mp.weixin.qq.com/s/AQDzZHsEfMM3wg1R09fhmA) • [第11-12回](https://mp.weixin.qq.com/s/-Kjg9yRIYemww-anyA9dmw) • [第13-14回](https://mp.weixin.qq.com/s/LC5l_27zEcr1FDlde1y7JA)• [第15-16回](https://mp.weixin.qq.com/s/taUILHGJ5vCzNFvgVTUhtg)• [第17-18回](https://mp.weixin.qq.com/s/C4kNR5rROm6QZsoRdkMu1Q)• [第19-20回](https://mp.weixin.qq.com/s/DZDDU6PK17hIEUP1m12Inw)• [第21-22回](https://mp.weixin.qq.com/s/vYuMRX0R8XXPrv5PObH7bw)• [第23-26回](https://mp.weixin.qq.com/s/GPpP3nzPwIgqYUhUzCQd6g)• [第27-28回](https://mp.weixin.qq.com/s/DL5Pr_CiM7V168-_XiLIjQ)• [第29-30回](https://mp.weixin.qq.com/s/HZw2X60lsosJ2eQuECIA3w)• [第31-32回]()
 
 # 📝 教研活动
 <!-- ------------------------------------ -->
